@@ -4,8 +4,8 @@
 # Integrantes: Vanessa Chamorro, Pamela López, Karla Moya, Juan Salazar, Jessica Villacis, Karen Zhangallimbay
 
 #### Datos ####
-bfpd=125000
-bwpd=100000
+bfpd=100000
+bwpd=5000
 emul=30
 ar=1000
 efi=95
@@ -42,7 +42,7 @@ print(f'Emulsión= {emul1:0.3f}')
 print(f'Agua libre= {agualib1:0.3f}')
 print(f'BFPD= {total1:0.1f}')
 #Iteración 2 
-# Cálculo del agua residual
+# Cálculo del Aceite residual
 ar2=agualib1*ar/(1000000-ar)
 # Cálculo del petróleo resultante
 bopd2=bopd-ar2
@@ -58,7 +58,7 @@ print(f'Agua emulsionada= {aguaemul:0.3f}')
 print(f'Pérdida de agua libre= {pagualib:0.3f}')
 print(f'Emulsión= {emul2:0.3f}')
 print(f'Agua libre= {agualib2:0.3f}')
-print(f'Agua residual= {ar2:0.3f}')
+print(f'Aceite residual= {ar2:0.3f}')
 print(f'BFPD= {total2:0.1f}')
 #Iteración 3
 # Cálculo del agua emulsionada 
@@ -77,10 +77,10 @@ print(f'BOPD= {bopd2:0.1f}')
 print(f'Pérdida de agua libre= {pagualib:0.3f}')
 print(f'Emulsión= {emul3:0.3f}')
 print(f'Agua libre= {agualib3:0.3f}')
-print(f'Agua residual= {ar2:0.3f}')
+print(f'Aceite residual= {ar2:0.3f}')
 print(f'BFPD= {total3:0.1f}')
 #Iteración 4
-# Cálculo del agua residual
+# Cálculo del Aceite residual
 ar3=agualib3*ar/(1000000-ar)
 #Variación de agua residual
 var=ar3-ar2
@@ -98,7 +98,7 @@ print(f'Agua emulsionada= {aguaemul2:0.3f}')
 print(f'Pérdida de agua libre= {agualib:0.3f}')
 print(f'Emulsión= {emul4:0.3f}')
 print(f'Agua libre= {agualib4:0.3f}')
-print(f'Agua residual= {ar3:0.3f}')
+print(f'Aceite residual= {ar3:0.3f}')
 print(f'BFPD= {total4:0.1f}')
 #Datos finales
 # Cálculo del agua emulsionada
