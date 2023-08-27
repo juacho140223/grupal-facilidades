@@ -1,7 +1,7 @@
-# Univesidad Central del Ecuador
+# Universidad Central del Ecuador
 # Carrera de Petroleos
 # Materia: Facilidades de Producción
-# Integrantes: Vanessa Chamorro, Pamela López, Karla Moya, Juan Salazar, Jessica Villacis, Karen Zhangallimbay
+# Integrantes: Vanessa Chamorro, Ana Paula Carrasco, Dorian Erazo, Juan Salazar, Karen Zhangallimbay
 
 # Ingresar los valores de las variables
 a=float(input('Ingrese el valor de área en acres: ')) 
