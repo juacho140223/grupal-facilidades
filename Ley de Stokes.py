@@ -1,15 +1,15 @@
-# Univesidad Central del Ecuador
+# Universidad Central del Ecuador
 # Carrera de Petroleos
 # Materia: Facilidades de Producción
-# Integrantes: Vanessa Chamorro, Pamela López, Karla Moya, Juan Salazar, Jessica Villacis, Karen Zhangallimbay
+# Integrantes: Vanessa Chamorro, Ana Paula Carrasco, Dorian Erazo, Juan Salazar, Karen Zhangallimbay
 
 #### Datos ####
 # Grados API=15°
 # Viscocidad del petróleo= 0.002 (lb/ft-s)
-bfpd=50000
-bwpd=30000
+bfpd=75000
+bwpd=2300
 emul=30
-va= 126 # Velocidad de asentamiento de las gotas de agua
+va= 110 # Velocidad de asentamiento de las gotas de agua
 ###############
 # Cálculo de los barriles de petróleo
 bopd=bfpd-bwpd
