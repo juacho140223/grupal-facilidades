@@ -1,12 +1,12 @@
-# Univesidad Central del Ecuador
+# Universidad Central del Ecuador
 # Carrera de Petroleos
 # Materia: Facilidades de Producción
-# Integrantes: Vanessa Chamorro, Pamela López, Karla Moya, Juan Salazar, Jessica Villacis, Karen Zhangallimbay
+# Integrantes: Vanessa Chamorro, Ana Paula Carrasco, Dorian Erazo, Juan Salazar, Karen Zhangallimbay
 
 #### Datos ####
-bfpd=100000
-bwpd=5000
-emul=30
+bfpd=20000
+bwpd=7500
+emul=25
 ar=1000
 efi=95
 ################
